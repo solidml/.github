@@ -1,5 +1,5 @@
 # .github
-solidity and machine links tutorials and reference<br />
+solidity, python, javascript and machine learning tutorial links and references<br />
 <a href="https://youtu.be/hSzhd5mDYHc">immutable IPFS</a><br />
 <a href="https://www.youtube.com/watch?v=xeaevi7W81U">AI, SMART CONTRACTS and BLOCKCHAIN combined - changing the world!</a><br />
 <a href="https://youtu.be/ogk4DnqXvuA">Blockchain + AI = Decentralized Artificial Intelligence</a><br />
