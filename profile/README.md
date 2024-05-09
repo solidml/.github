@@ -1,7 +1,6 @@
 ## solidML
 
 SolidML: Integrating Solidity and Machine Learning
-Overview
 
 SolidML is an innovative framework that unites the worlds of blockchain development through Solidity and the transformative capabilities of machine learning. It is designed to foster the development of intelligent decentralized applications (dApps) and smart contracts, leveraging the strengths of both technologies.
 Key Aspects
@@ -24,6 +23,7 @@ Use Cases
 
 Getting Started
 
-Developers can begin by exploring the repositories provided on GitHub and reviewing the documentation for integrating machine learning models with Solidity contracts.
+Developers can begin by exploring the repositories provided on GitHub and reviewing the documentation for integrating machine learning models with Solidity contracts.<br />
+or by interacting with <a href="https://chatgpt.com/g/g-u4IfR8OVL-smairt">S.M.A.I.R.T</a> the GPT4 SMART solidity agent
 
 With its emphasis on machine learning integration, SolidML aims to redefine the capabilities of blockchain applications, providing developers with an enriched framework for creating next-generation Web3 projects.
