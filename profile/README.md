@@ -12,7 +12,7 @@ Key Aspects
 Core Features
 
     LayerZero Protocol Integration: Allows omnichain tokens to operate seamlessly across different blockchains, ensuring secure and decentralized token management​ (GitHub)​.
-    ChainGPT AI Solutions: Provides AI-based chatbots, NFT generators, smart contract auditing, and other Web3 tools to enhance the user experience and developer productivity​ (GitHub)​.
+    blockchain AI Solutions: Provides AI-based chatbots, NFT generators, smart contract auditing, and other Web3 tools to enhance the user experience and developer productivity​ (GitHub)​.
     Flexible Smart Contracts: Offers upgradeable and customizable contracts that developers can adapt to their specific needs.
 
 Use Cases
