@@ -1,6 +1,5 @@
-## solidML
-# Solidity Machine Augmented Intelligent Responsive Toolkit
 # S.M.A.I.R.T
+# Solidity Machine Augmented Intelligent Responsive Toolkit
 
 SolidML: Integrating Solidity and Machine Learning
 
